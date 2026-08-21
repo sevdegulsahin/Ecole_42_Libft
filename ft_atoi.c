@@ -5,12 +5,10 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: sevdsahi <sevdsahi@student.42istanbul.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/08/18 13:56:09 by sevdsahi          #+#    #+#             */
-/*   Updated: 2026/08/18 14:00:14 by sevdsahi         ###   ########.fr       */
+/*   Created: 2026/08/21 13:13:00 by sevdsahi          #+#    #+#             */
+/*   Updated: 2026/08/21 13:13:07 by sevdsahi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-#include "libft.h"
 
 int	ft_atoi(const char *str)
 {
